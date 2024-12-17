@@ -45,7 +45,6 @@
     "Gradle.Upgrade Gradle wrapper.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.LibraryAppApplication.executor": "Run",
-    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/danbi/Documents/study/kotlin/library-app-study",
     "node.js.detected.package.eslint": "true",
@@ -87,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734416330201</updated>
-      <workItem from="1734416331266" duration="986000" />
+      <workItem from="1734416331266" duration="1412000" />
     </task>
     <servers />
   </component>
