@@ -1,0 +1,31 @@
+# Gradle 빌드 및 캐시 파일
+/build/
+/.gradle/
+.gradle-build-scan-data/
+tmp/
+
+# Kotlin 및 Java 컴파일 결과물
+*.class
+*.kotlin_module
+*.tab
+*.lock
+*.bin
+
+# IntelliJ IDEA 설정
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# OS 파일
+.DS_Store
+Thumbs.db
+
+# 로그 및 임시 파일
+*.log
+*.tmp
+
+# KAPT 및 증분 빌드 파일
+build/tmp/kapt3/
+build/tmp/incrementalData/
